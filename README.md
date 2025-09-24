@@ -84,6 +84,16 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - Will AI Take My Job? Or Create New Ones?  
 - Global AI Race: Collaboration or Competition?  
 - AI + Creativity: The Future of Art, Music, and Storytelling  
-- Your Roadmap to the Future – Staying Relevant in the AI Era  
+- Your Roadmap to the Future – Staying Relevant in the AI Era
+
+---
+
+- ### 🚀 **Check Out What We’re Building** - **[Projects](https://github.com/edquestofficial/GenAI-Studio.git)**
+
+- ### 🌐 **Our Active Learning Community** - **[Gen AI Cohort 2025](https://github.com/edquestofficial/Gen-AI-Cohort.git)**
+
+- ### 🎤 **Teaching Industry Experts at Corporate Events** - **[Corporate Trainings](https://github.com/edquestofficial/corporate_trainings.git)**
+
+
 
 
