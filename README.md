@@ -1,7 +1,9 @@
-# [Generative AI for Everyone](https://youtube.com/playlist?list=PL7E7TYb0_SgEQz4g1doHXHL6F05h2GRYi&si=Er8TtVrzYPtbqyuE)
+# Generative AI for Everyone
 
 This repository contains the full structure, resources, and hands-on notebooks for my **Generative AI for Everyone YouTube Course**.  
-The course is divided into 8 modules, starting from the **basics of Generative AI** and going all the way to the **Future of GenAI**.  
+The course is divided into 8 modules, starting from the **basics of Generative AI** and going all the way to the **Future of GenAI**. 
+
+[**Click here to watch playlist**](https://youtube.com/playlist?list=PL7E7TYb0_SgEQz4g1doHXHL6F05h2GRYi&si=Er8TtVrzYPtbqyuE)
 
 ---
 
