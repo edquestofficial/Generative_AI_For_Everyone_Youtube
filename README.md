@@ -1,4 +1,4 @@
-# Generative AI for Everyone
+# [Generative AI for Everyone](https://youtube.com/playlist?list=PL7E7TYb0_SgEQz4g1doHXHL6F05h2GRYi&si=Er8TtVrzYPtbqyuE)
 
 This repository contains the full structure, resources, and hands-on notebooks for my **Generative AI for Everyone YouTube Course**.  
 The course is divided into 8 modules, starting from the **basics of Generative AI** and going all the way to the **Future of GenAI**.  
@@ -35,8 +35,7 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - Few Shot Prompting  
 - Chain of Thought Prompting  
 - How to Write a Perfect Prompt  
-- **Hands-on Project** → Burger Bot - Code in M3 Folder
-
+- **Hands-on Project** → [Burger Bot](https://colab.research.google.com/drive/1lpLiJZXk9UoWNhi2v1kmn9MH-N29QcLk?usp=sharing)
 ---
 
 ### **M4 – Introduction to RAG**
@@ -47,14 +46,12 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - Insertion in Vector DB with Practical  
 - Semantic Search with Practical  
 - Asking a Query with Practical  
-- **Hands-on Project** → RAG Chain - Code in M4 Folder
----
+- **Hands-on Project** → [RAG Chain](https://colab.research.google.com/drive/1fuHpNF0Oobpt_BYpuTGE2Jq7P-04QtJC?usp=sharing)
 
 ### **M5 – RAG in LangChain**
 - Introduction to LangChain  
 - Pre-Built Modules Walkthrough  
-- **Hands-on Project** →  
-
+- **Hands-on Project** → 
 ---
 
 ### **M6 – Agentic RAG in LangGraph**
@@ -86,6 +83,5 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - Global AI Race: Collaboration or Competition?  
 - AI + Creativity: The Future of Art, Music, and Storytelling  
 - Your Roadmap to the Future – Staying Relevant in the AI Era  
-
 
 
