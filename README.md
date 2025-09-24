@@ -87,14 +87,5 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - AI + Creativity: The Future of Art, Music, and Storytelling  
 - Your Roadmap to the Future – Staying Relevant in the AI Era  
 
----
 
-## 🚀 How to Use
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/genai-course.git
-   cd genai-course
 
-2. Generative AI for Everyone - YouTube Series
-   ```
-   https://youtube.com/playlist?list=PL7E7TYb0_SgEQz4g1doHXHL6F05h2GRYi&si=sjkjTcCvAvqkmkn_
