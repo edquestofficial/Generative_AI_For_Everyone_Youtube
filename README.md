@@ -67,7 +67,7 @@ The course is divided into 8 modules, starting from the **basics of Generative A
 - Sequential Workflow (Practical)  
 - Iterative Workflow (Practical)  
 - Memory and Checkpointers  
-- **Hands-on Project** →  
+- **Hands-on Project** → [Movie Recommendation Agent System](https://github.com/edquestofficial/Generative_AI_For_Everyone_Youtube/blob/main/M6%20-%20Agentic%20RAG%20in%20LangGraph/Movie_Recommendation_Agent_System.ipynb)
 
 ---
 
